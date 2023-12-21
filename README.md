@@ -2,6 +2,9 @@
 
 MotionPause is an open-source Android app that brings a distinctive motion-based sleep timer to your audio experience, effortlessly enhancing your listening sessions across music, podcasts, and audiobooks in other apps.
 
+> [!IMPORTANT]  
+> This project is currently in development and is not yet available on the Google Play Store. Please await further updates.
+
 ## Key Features
 
 - **Motion-Based Sleep Timer:** Set and control your pause with simple motions, ensuring a tranquil audio experience.
@@ -12,7 +15,6 @@ MotionPause is an open-source Android app that brings a distinctive motion-based
 
 - **Privacy First:** MotionPause prioritizes user privacy, avoiding tracking or analytics for a secure and personalized experience.
 - **Ad-Free and Free to Use:** A commitment to a distraction-free and freely accessible audio enhancement tool.
-- **Donation Option:** Support the project directly through GitHub if you find MotionPause valuable.
 
 ## Getting Started
 
