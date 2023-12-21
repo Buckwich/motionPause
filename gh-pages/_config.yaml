@@ -1,0 +1,10 @@
+title: MotionPause
+email: Buckwich@users.noreply.github.com
+description: >- # this means to ignore newlines until "baseurl:"
+  MotionPause is an open-source Android app that brings a distinctive motion-based sleep timer to your audio experience, effortlessly enhancing your listening sessions across music, podcasts, and audiobooks in other apps.
+
+github_username: Buckwich
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one

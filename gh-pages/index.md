@@ -17,11 +17,7 @@ MotionPause is an open-source Android app that brings a distinctive motion-based
 ## Getting Started
 
 1. **Installation:** Download the MotionPause APK from the [Releases](https://github.com/Buckwich/MotionPause/releases) section.
-2. **Contribute:** Fork the repository, make your enhancements, and submit a pull request to contribute to the project. In the different project folders you will find setup instructions for development
-
-### Project Structure
-
-- `gh-pages`: Contains the source code for the [MotionPause website](https://buckwich.github.io/MotionPause/)
+2. **Contribute:** Fork the repository, make your enhancements, and submit a pull request to contribute to the project.
 
 ## Community
 
