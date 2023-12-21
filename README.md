@@ -23,7 +23,7 @@ MotionPause is an open-source Android app that brings a distinctive motion-based
 
 ### Project Structure
 
-- `gh-pages`: Contains the source code for the [MotionPause website](https://buckwich.github.io/MotionPause/)
+- `docs`: Contains the source code for the [MotionPause website](https://buckwich.github.io/MotionPause/)
 
 ## Community
 

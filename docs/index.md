@@ -12,7 +12,6 @@ MotionPause is an open-source Android app that brings a distinctive motion-based
 
 - **Privacy First:** MotionPause prioritizes user privacy, avoiding tracking or analytics for a secure and personalized experience.
 - **Ad-Free and Free to Use:** A commitment to a distraction-free and freely accessible audio enhancement tool.
-- **Donation Option:** Support the project directly through GitHub if you find MotionPause valuable.
 
 ## Getting Started
 
